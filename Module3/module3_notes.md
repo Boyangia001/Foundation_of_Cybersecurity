@@ -1,11 +1,11 @@
-This course section focuses on how organizations protect themselves from security threats, risks, and vulnerabilities.\
+## how organizations protect themselves from security threats, risks, and vulnerabilities.\
 The core concepts covered are:\
 **Frameworks**: These provide structured guidance and policies for organizing security efforts and making informed decisions.\
 **Controls**: These are specific measures or safeguards implemented to protect assets. An example given is security keys for two-factor authentication, which enhance confidentiality and integrity.\
 **Ethics**: The course will also delve into ethical considerations within the security field, including notable ethical concerns.  \
 The **CIA Triad (Confidentiality, Integrity, and Availability)** is introduced as a crucial foundational concept.
 
-This course section covers how security professionals use **security frameworks** and **security controls** to manage risk.
+## how security professionals use **security frameworks** and **security controls** to manage risk.
 
 **Key Concepts:**
 
@@ -35,3 +35,17 @@ Here's a concise summary of the key concepts:
     * **Relationship to Frameworks:** Controls are the practical measures used to implement the strategic plans outlined by frameworks.
 
 Both frameworks and controls are essential for effective risk management, ensuring a strong security posture, and protecting an organization's data and people.
+
+## Specific security frameworks and controls. 
+
+The most important concepts are:
+
+* **CIA Triad (Confidentiality, Integrity, Availability):** A foundational model for risk consideration in security systems and policies.
+    * **Confidentiality:** Only authorized users can access specific assets or data (e.g., strict access controls).
+    * **Integrity:** Data is correct, authentic, and reliable (e.g., using encryption to prevent tampering).
+    * **Availability:** Data is accessible to authorized users.
+* **Asset:** An item with value to an organization, determined by its associated cost (e.g., an application storing sensitive data is more valuable than a public news website).
+* **NIST Cybersecurity Framework (NIST CSF):** A voluntary U.S.-based framework providing standards, guidelines, and best practices for managing cybersecurity risk. Security teams use it as a baseline for risk management.
+* **Threat Actors:** Individuals or entities who pose a risk to an organization's assets. Disgruntled employees are noted as particularly dangerous due to their access to sensitive information.
+* **Risk Mitigation:** Security professionals use principles like availability (from the CIA triad) and organizational guidelines based on frameworks to reduce risks, such as limiting employee access to only necessary data.
+* **Diverse Workforce:** A diverse security team is crucial for identifying attackers' intentions and mitigating malicious activity effectively.
