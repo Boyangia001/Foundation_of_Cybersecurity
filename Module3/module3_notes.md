@@ -1,11 +1,11 @@
-## how organizations protect themselves from security threats, risks, and vulnerabilities.\
+## How organizations protect themselves from security threats, risks, and vulnerabilities.
 The core concepts covered are:\
 **Frameworks**: These provide structured guidance and policies for organizing security efforts and making informed decisions.\
 **Controls**: These are specific measures or safeguards implemented to protect assets. An example given is security keys for two-factor authentication, which enhance confidentiality and integrity.\
 **Ethics**: The course will also delve into ethical considerations within the security field, including notable ethical concerns.  \
 The **CIA Triad (Confidentiality, Integrity, and Availability)** is introduced as a crucial foundational concept.
 
-## how security professionals use **security frameworks** and **security controls** to manage risk.
+## How security professionals use **security frameworks** and **security controls** to manage risk.
 
 **Key Concepts:**
 
@@ -17,9 +17,9 @@ The **CIA Triad (Confidentiality, Integrity, and Availability)** is introduced a
         3.  Implement strong security processes (e.g., procedures for user data requests).
         4.  Monitor and communicate results (e.g., report security issues).
 * **Security Controls:** Safeguards designed to reduce specific security risks (e.g., privacy training for employees). They are vital for maintaining low risk levels within an organization.
-This course section emphasizes the use of **security frameworks** and **security controls** to manage and mitigate risks in an organization.
+* 
 
-Here's a concise summary of the key concepts:
+## The use of **security frameworks** and **security controls** to manage and mitigate risks in an organization.
 
 * **Initial Steps for a Security Analyst:** Identify critical assets and risks, then implement frameworks and controls.
 * **Security Frameworks:**
