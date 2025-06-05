@@ -17,7 +17,6 @@ The **CIA Triad (Confidentiality, Integrity, and Availability)** is introduced a
         3.  Implement strong security processes (e.g., procedures for user data requests).
         4.  Monitor and communicate results (e.g., report security issues).
 * **Security Controls:** Safeguards designed to reduce specific security risks (e.g., privacy training for employees). They are vital for maintaining low risk levels within an organization.
-* 
 
 ## The use of **security frameworks** and **security controls** to manage and mitigate risks in an organization.
 
