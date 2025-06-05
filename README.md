@@ -1,1 +1,3 @@
-# Foundation_of_Cybersecurity
+# Foundation of Cybersecurity
+
+This is my personal note on this course.
